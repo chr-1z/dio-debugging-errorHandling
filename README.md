@@ -44,3 +44,19 @@ com o finally <br />
 ![image](https://user-images.githubusercontent.com/51412784/147778112-bcd66b7d-bebf-4a55-a508-1a6f4b0b72ba.png)
 
 Finally - Uma instrução que vai ser chamada independente se tiver erro ou não. É executado depois do try/catch.
+
+---
+
+Manipular o objeto Error <br />
+![image](https://user-images.githubusercontent.com/51412784/147782257-66defb92-1a5f-4362-9277-99d152477484.png)
+
+
+Message é padrão.
+fileName e lineNumber são opcionais.
+
+
+O erro pode ter um nome <br />
+![image](https://user-images.githubusercontent.com/51412784/147782344-812efd0b-2d29-44a7-94cc-5e72419757c4.png)
+
+![image](https://user-images.githubusercontent.com/51412784/147782404-be8d149b-0ba0-4f58-acb9-6d53ee778219.png)
+
